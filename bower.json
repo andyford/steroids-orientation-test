@@ -1,0 +1,8 @@
+{
+  "name": "orientation test",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "supersonic": "1.x"
+  }
+}
